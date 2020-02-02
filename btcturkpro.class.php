@@ -1,3 +1,4 @@
+<?php
 /**
  * BtcTurk | PRO API PHP wrapper class
  * @author Onur Gozupek <onur@gozupek.com>
