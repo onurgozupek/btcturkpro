@@ -234,7 +234,7 @@ class BtcTurkPRO
     public function CancelOrder($id)
     {
         return $this->get_call('v1/order', array('id' => $id), 1, 3);
-        //Usage: $request->getCancelOrder(ORDERID);
+        //Usage: $request->CancelOrder(ORDERID);
     }
 
      /**
